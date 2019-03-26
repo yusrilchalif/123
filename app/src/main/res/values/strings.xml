@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ResultIntent</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="pens">PENS</string>
+    <string name="login">LOGIN</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+</resources>
